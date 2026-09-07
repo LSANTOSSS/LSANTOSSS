@@ -44,12 +44,6 @@ Validação + automação documental
 
 O **SAF** representa a camada de análise e requisitos. O **DocFlow** representa a camada de tooling e automação. Juntos, demonstram uma linha de trabalho que vai da compreensão do problema até a geração de entregáveis verificáveis.
 
-## Portfólio
-
-O repositório **My-space** funciona como hub dos projetos, evolução do portfólio e navegação entre os trabalhos publicados.
-
-[Visitar My-space](https://github.com/LSANTOSSS/My-space)
-
 ## Princípios deste portfólio
 
 - projetos públicos, pessoais e independentes;
